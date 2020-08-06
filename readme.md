@@ -12,11 +12,6 @@ Grâce à votre application, l'utilisateur pourra :
 - **Marquer** une tâche comme "is_done"
 - **Trier** les tâches
 
-https://media.giphy.com/media/B7o99rIuystY4/giphy.gif
-
-[![](https://i.giphy.com/e2AKpOvx2MREY.gif)](https://www.youtube.com/watch?v=04MJIXcZKPk)
-
-[![](https://i.giphy.com/B7o99rIuystY4.gif)](https://www.youtube.com/watch?v=04MJIXcZKPk)
 
 [![](https://i.giphy.com/j2wpZyLy2s70ul4TKo.gif)](https://www.youtube.com/watch?v=04MJIXcZKPk)
 
