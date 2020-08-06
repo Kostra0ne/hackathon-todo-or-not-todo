@@ -13,10 +13,7 @@ Grâce à votre application, l'utilisateur pourra :
 - **Trier** les tâches
 
 
-
 [![](https://i.giphy.com/B7o99rIuystY4.gif)]
-[![](https://i.giphy.com/13HgwGsXF0aiGY.gif)]
-
 
 
 
@@ -62,6 +59,7 @@ fonctionnelle et agréable à utiliser. Vous êtes libres d'ajouter des fonction
 
 Go simplon !!!
 
+
 ## Equipes
 
 - Il y a deux clans : React et View
@@ -71,6 +69,9 @@ Go simplon !!!
 - Etape 3 : Briefing de tribu : planning, répartition des tâches, trello, etc.
 - Etape 4 : Code !
 - Etape 5 : Présentations
+
+[![](https://i.giphy.com/13HgwGsXF0aiGY.gif)]
+
 
 ## 17h00 : Présentations !
 
