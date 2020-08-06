@@ -9,7 +9,7 @@ Grâce à votre application, l'utilisateur pourra :
 
 - **Créer** des listes de tâches à faire (TodoLists)
 - **Associer** des tâches à une liste (Todos)
-- **Marquer** une tâche comme "is_finished"
+- **Marquer** une tâche comme "is_done"
 - **Trier** les tâches
 
 ## Model
