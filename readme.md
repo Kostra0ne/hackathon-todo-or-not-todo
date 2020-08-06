@@ -21,7 +21,7 @@ Grâce à votre application, l'utilisateur pourra :
 
 [![](https://i.giphy.com/e2AKpOvx2MREY.gif)](https://www.youtube.com/watch?v=04MJIXcZKPk)
 
-[![](https://media.giphy.com/media/j2wpZyLy2s70ul4TKo/giphy.gif)](https://www.youtube.com/watch?v=04MJIXcZKPk)
+[![](https://i.giphy.com/j2wpZyLy2s70ul4TKo.gif)](https://www.youtube.com/watch?v=04MJIXcZKPk)
 
 
 ## Model
