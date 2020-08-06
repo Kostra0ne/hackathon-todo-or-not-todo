@@ -13,8 +13,8 @@ Grâce à votre application, l'utilisateur pourra :
 - **Trier** les tâches
 
 
-[![](https://i.giphy.com/B7o99rIuystY4.gif)]
-
+![](https://i.giphy.com/B7o99rIuystY4.gif)
+&emsp&emsp&emsp&emsp
 
 ## Model
 
@@ -52,7 +52,7 @@ Grâce à votre application, l'utilisateur pourra :
   -- Passer le status is_done d'une tâche de false à true
 
 
-[![](https://i.giphy.com/VhWVAa7rUtT3xKX6Cd.gif)]
+![](https://i.giphy.com/VhWVAa7rUtT3xKX6Cd.gif)
 
 ## Code quality
 
@@ -72,7 +72,7 @@ Go simplon !!!
 - Etape 4 : Code !
 - Etape 5 : Présentations
 
-[![](https://i.giphy.com/13HgwGsXF0aiGY.gif)]
+![](https://i.giphy.com/13HgwGsXF0aiGY.gif)
 
 
 ## 17h00 : Présentations !
