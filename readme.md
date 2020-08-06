@@ -12,6 +12,9 @@ Grâce à votre application, l'utilisateur pourra :
 - **Marquer** une tâche comme "is_done"
 - **Trier** les tâches
 
+
+![alt text](https://media.giphy.com/media/j2wpZyLy2s70ul4TKo/giphy.gif)
+
 ## Model
 
 - Connecter à une base de données mongodb
@@ -64,6 +67,6 @@ Go simplon !!!
 - Etape 4 : Code !
 - Etape 5 : Présentations
 
-## Présentations 17h00
+## 17h00 : Présentations !
 
 Chaque équipe disposera de 5 minutes chrono pour présenter son travail. Prévoyez un support de présentation.
