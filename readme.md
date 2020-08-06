@@ -14,7 +14,8 @@ Grâce à votre application, l'utilisateur pourra :
 
 
 
-[![](https://i.giphy.com/B7o99rIuystY4.gif)](https://www.youtube.com/watch?v=04MJIXcZKPk)
+[![](https://i.giphy.com/B7o99rIuystY4.gif)]
+[![](https://i.giphy.com/13HgwGsXF0aiGY.gif)]
 
 
 
