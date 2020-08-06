@@ -17,6 +17,8 @@ Grâce à votre application, l'utilisateur pourra :
 
 ![]https://media.giphy.com/media/j2wpZyLy2s70ul4TKo/giphy.gif)
 
+[![](https://media.giphy.com/media/j2wpZyLy2s70ul4TKo/giphy.gif)]
+
 ## Model
 
 - Connecter à une base de données mongodb
