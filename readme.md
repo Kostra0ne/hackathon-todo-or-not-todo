@@ -14,7 +14,9 @@ Grâce à votre application, l'utilisateur pourra :
 
 
 ![](https://i.giphy.com/B7o99rIuystY4.gif)
-&emsp&emsp&emsp&emsp
+  
+  
+  
 
 ## Model
 
