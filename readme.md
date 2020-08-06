@@ -16,7 +16,6 @@ Grâce à votre application, l'utilisateur pourra :
 [![](https://i.giphy.com/B7o99rIuystY4.gif)]
 
 
-
 ## Model
 
 - Connecter à une base de données mongodb
@@ -51,6 +50,9 @@ Grâce à votre application, l'utilisateur pourra :
   -- Trier les Todos d'une TodoList par priority
   -- Trier les Todos d'une TodoList par is_done
   -- Passer le status is_done d'une tâche de false à true
+
+
+[![](https://i.giphy.com/VhWVAa7rUtT3xKX6Cd.gif)]
 
 ## Code quality
 
