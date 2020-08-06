@@ -13,7 +13,9 @@ Grâce à votre application, l'utilisateur pourra :
 - **Trier** les tâches
 
 
-![alt text](https://media.giphy.com/media/j2wpZyLy2s70ul4TKo/giphy.gif)
+![cool gif](https://media.giphy.com/media/j2wpZyLy2s70ul4TKo/giphy.gif)
+
+![]https://media.giphy.com/media/j2wpZyLy2s70ul4TKo/giphy.gif)
 
 ## Model
 
