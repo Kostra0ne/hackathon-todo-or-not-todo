@@ -12,7 +12,7 @@ Grâce à votre application, l'utilisateur pourra :
 - **Marquer** une tâche comme "is_finished"
 - **Trier** les tâches
 
-### Model
+## Model
 
 - Connecter à une base de données mongodb
 - Modéliser les documents TodoList et Todo avec mongoose
@@ -31,11 +31,11 @@ Grâce à votre application, l'utilisateur pourra :
   - todos: [ ObjectId(Todo) ]
 
 
-### Controller
+## Controller
 
 - Utiliser express pour définir vos routers
 
-### Views
+## Views
 
 - Choisir entre React et Vue pour réaliser le frontend
 - **Soigner** l'intégration de votre application en terme d'**UI/UX**
