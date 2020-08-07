@@ -15,15 +15,13 @@ Grâce à votre application, l'utilisateur pourra :
 
 ![](https://i.giphy.com/B7o99rIuystY4.gif)
   
-  
-  
 
 ## Model
 
 - Connecter à une base de données mongodb
 - Modéliser les documents TodoList et Todo avec mongoose
 
-- Chaque document Todo aura à **minima** les propriétés suivantes:
+- Exemple de Todo :
 
   - _id: ObjectId
   - text: String
@@ -31,7 +29,8 @@ Grâce à votre application, l'utilisateur pourra :
   - is_done: Boolean
   - bonus -> date_created: Date
 
-- Chaque TodoList aura à **minima** les propriétés suivantes:
+- Exemple de TodoList :
+
   - _id: ObjectId
   - nom: String
   - todos: [ ObjectId(Todo) ]
@@ -45,21 +44,15 @@ Grâce à votre application, l'utilisateur pourra :
 
 - Choisir entre React et Vue pour réaliser le frontend
 - **Soigner** l'intégration de votre application en terme d'**UI/UX**
-- Les views seront **responsives**
-- On aura la possibilité de:
-  -- Créer une nouvelle TodoList
-  -- Associer un Todo à une TodoList
-  -- Trier les Todos d'une TodoList par priority
-  -- Trier les Todos d'une TodoList par is_done
-  -- Passer le status is_done d'une tâche de false à true
-
 
 ![](https://i.giphy.com/VhWVAa7rUtT3xKX6Cd.gif)
 
 ## Code quality
 
-Vous mettrez en oeuvre tout votre savoir faire et votre inventivité pour rendre l'application
-fonctionnelle et agréable à utiliser. Vous êtes libres d'ajouter des fonctionnalités.
+Mettez en oeuvre tout votre savoir faire et votre inventivité pour rendre l'application
+fonctionnelle et agréable à utiliser. Le code sera fourni sur github. 
+Vous êtes libres d'ajouter des fonctionnalités.
+
 
 Go simplon !!!
 
