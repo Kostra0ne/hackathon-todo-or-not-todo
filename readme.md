@@ -1,6 +1,4 @@
-# Hackathon du 07/08/2020
-
-## JS Frameworks War : Todo or not Todo ?!!
+# JS Frameworks War : Todo or not Todo ?!!
 
 ### Objectif : Réaliser une application client/server/bdd de TodoList
 
